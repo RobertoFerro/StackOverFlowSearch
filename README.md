@@ -13,6 +13,7 @@ This is the code sample for the Global Kinetic StackOverFlow search iOS applicat
 - This project includes unit tests teh SearchViewModel
 
 #To Do Still
+- Investiage the use of a CollectionView instead of using a TableView
 - Unit tests for the repository
 - Loading pulse to be shown when a service call is being made
 - Show an error message to the user when an error occurs

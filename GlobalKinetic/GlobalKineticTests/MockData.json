@@ -1,0 +1,27 @@
+{
+    "items": [{
+              "tags": ["swift", "swift3", "swift4", "phasset"],
+              "owner": {
+              "reputation": 1,
+              "user_id": 10509368,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/b99366b1c311bc4262f0a66a0c2e08ab?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Travis Lertov",
+              "link": "https://stackoverflow.com/users/10509368/travis-lertov"
+              },
+              "is_answered": false,
+              "view_count": 21,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1541078636,
+              "creation_date": 1541058833,
+              "last_edit_date": 1541060199,
+              "question_id": 53097153,
+              "link": "https://stackoverflow.com/questions/53097153/how-to-get-a-phasset-of-the-video-from-a-video-url",
+              "title": "How to get a PHAsset of the video from a video URL?",
+              "body": "<p>How do I get a <strong>PHAsset of a captured video</strong>, if <strong>I've got only a video URL</strong>? My problem is that I know how to get URL of a video from PHAsset, but don't understand how to get PHAsset from video URL.</p>\n\n<p>This is what I tried to do, but it didn't work. It's not for a video, but for a photo...So Idk how to make it for a video.</p>\n\n<pre><code>let imgData = NSData(contentsOfURL: (NSURL(string: \"file:///var/mobile/Media/DCIM/100APPLE/IMG_0043.JPG\"))!)\nlet image = UIImage(data: imgData!)\n</code></pre>\n"
+              }],
+    "has_more": true,
+    "quota_max": 300,
+    "quota_remaining": 235
+}

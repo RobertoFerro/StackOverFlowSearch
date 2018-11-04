@@ -1,0 +1,24 @@
+/*
+ Localizable.strings
+ GlobalKinetic
+ 
+ Created by Roberto Ferro on 2018/11/04.
+ Copyright © 2018 Roberto Ferro. All rights reserved.
+ */
+
+"noPosts" = "Stack Overflow Search";
+"askedBy" = "asked by %@";
+"vote" = "%d Vote";
+"votes" = "%d Votes";
+"view" = "%d view";
+"views" = "%d views";
+"answer" = "%d answer ";
+"answers" = "%d answers";
+"stackOverFlowUrl" = "https://api.stackexchange.com/2.2/questions?pagesize=20&order=desc&sort=activity&tagged=%@&site=stackoverflow&filter=withbody";
+"stackOverFlowWebPage" = "<html><head><meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'/><style type='text/css'>pre{background: #f4f4f4;border: 1px solid #ddd;border-left: 3px solid #4078C4;color: #666;page-break-inside: avoid;font-family: monospace;font-size: 13px;line-height: 1.6;margin-bottom: 1.6em;max-width: 100%%;overflow: auto;padding: 1em 1.5em;} body,p{font-family: -apple-system; font-size:13px } img{padding: 0;display: block;margin: 0 auto;max-height: 100%%;max-width: 100%%;} </style></head><body>%@</body></html>";
+"detailNavigatioBarTitle" = "Questions";
+"askedByDateAndTime" = "asked %@ %@ at %@";
+"invalidDataFailure" = "The data returned was invalid";
+"responseFailure" = "An Network Error Occurred";
+"jsonDecodingFailure" = "The data count not be decoded correctly";
+"urlParsingFailure" = "The URL could not be parsed";
